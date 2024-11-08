@@ -10,6 +10,7 @@ multifaceted exploration of sales trends, demographic influences, and purchasing
 
 ## Tools
 - Microsoft Power Bi
+- Note: The Power Bi file is attached for perusal purposes
 
 ## Data Preparation
 In the initial data preparation, I performed the following tasks using power query;
